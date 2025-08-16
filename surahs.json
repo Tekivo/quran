@@ -1,0 +1,41 @@
+{
+  "app": "Quran App",
+  "screen": "SurahListScreen",
+  "theme": {
+    "backgroundGradient": ["#013220", "#025930"],
+    "textColor": "#FFFFFF",
+    "headerBorderColor": "#037d46",
+    "cardBackground": "#014d2b",
+    "cardBorderColor": "#037d46",
+    "englishNameColor": "#FFD700",
+    "arabicNameColor": "#D1D5DB",
+    "metaColor": "#E5E7EB"
+  },
+  "header": {
+    "title": "The Clear Quran",
+    "icons": ["search", "menu"]
+  },
+  "surahs": [
+    {
+      "number": 1,
+      "nameEn": "The Opener",
+      "nameAr": "Al-Fātiḥah",
+      "place": "Makkah",
+      "ayahs": 7
+    },
+    {
+      "number": 2,
+      "nameEn": "The Cow",
+      "nameAr": "Al-Baqarah",
+      "place": "Madinah",
+      "ayahs": 286
+    },
+    {
+      "number": 3,
+      "nameEn": "Family of Imran",
+      "nameAr": "Āl-‘Imrān",
+      "place": "Madinah",
+      "ayahs": 200
+    }
+  ]
+}
