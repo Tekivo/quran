@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "nameEn": "The Opener",
+  "nameAr": "Al-Fātiḥah",
+  "place": "Makkah",
+  "ayahs": 7,
+  "pages": [
+    {
+      "titleEn": "Prayer of Guidance",
+      "verses": [
+        {
+          "number": 1,
+          "textAr": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "textEn": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+          "footnoteIds": []
+        },
+        {
+          "number": 2,
+          "textAr": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "textEn": "All praise is for Allah—Lord of all worlds,",
+          "footnoteIds": []
+        },
+        {
+          "number": 3,
+          "textAr": "الرَّحْمَٰنِ الرَّحِيمِ",
+          "textEn": "the Most Compassionate, Most Merciful,",
+          "footnoteIds": []
+        },
+        {
+          "number": 4,
+          "textAr": "مَالِكِ يَوْمِ الدِّينِ",
+          "textEn": "Master of the Day of Judgment.",
+          "footnoteIds": []
+        },
+        {
+          "number": 5,
+          "textAr": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+          "textEn": "You ˹alone˺ we worship and You ˹alone˺ we ask for help.",
+          "footnoteIds": []
+        },
+        {
+          "number": 6,
+          "textAr": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+          "textEn": "Guide us along the Straight Path,",
+          "footnoteIds": []
+        },
+        {
+          "number": 7,
+          "textAr": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+          "textEn": "the Path of those You have blessed—not those You are displeased with, or those who are astray.",
+          "footnoteIds": []
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}
